@@ -44,35 +44,35 @@ const about = {
     "This section provides a brief overview of my professional profile and key details..!",
   info: [
     {
-      fieldName: "Name",
+      fieldName: "Name:",
       fieldValue: "Bhavesh Raut",
     },
     {
-      fieldName: "Phone",
+      fieldName: "Phone:",
       fieldValue: "(+91) 935 909 1928",
     },
     {
-      fieldName: "Experience",
+      fieldName: "Experience:",
       fieldValue: "1+ years",
     },
     {
-      fieldName: "MailTo",
+      fieldName: "MailTo:",
       fieldValue: "bhaveshraut157@gamil.com",
     },
     {
-      fieldName: "freelance",
+      fieldName: "Freelance:",
       fieldValue: "Available",
     },
     {
-      fieldName: "LinkedIn",
+      fieldName: "LinkedIn:",
       fieldValue: "@bhaveshraut",
     },
     {
-      fieldName: "Nationality",
+      fieldName: "Nationality:",
       fieldValue: "Indian",
     },
     {
-      fieldName: "Languages",
+      fieldName: "Languages:",
       fieldValue: "English, Japanese, Hindi, Marathi",
     },
   ],
