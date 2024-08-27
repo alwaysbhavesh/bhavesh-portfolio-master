@@ -56,7 +56,7 @@ const about = {
       fieldValue: "1+ years",
     },
     {
-      fieldName: "MailTo:",
+      fieldName: "Mail:",
       fieldValue: "bhaveshraut157@gamil.com",
     },
     {
