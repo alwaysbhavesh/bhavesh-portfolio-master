@@ -7,7 +7,7 @@ const social = [
     path: "https://linkedin.com/in/bhaveshraut",
   },
   { icon: <FaGithub />, path: "https://github.com/alwaysbhavesh" },
-  { icon: <FaTwitter />, path: "https://x.com/bhaveshcsit" },
+  { icon: <FaTwitter />, path: "https://x.com/bhaveshraut01" },
   { icon: <FaLink />, path: "https://www.credly.com/users/bhaveshraut" },
   // {icon: <FaYoutube />, path: ""},
 ];
