@@ -24,7 +24,7 @@ const Home = () => {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
                 download
-                href="https://aniket-thakre.vercel.app/assets/resume/Aniket_Thakre_Resume.pdf"
+                href="https://aniket-thakre.vercel.app/assets/resume/bhavesh_raut.pdf"
               >
                 <Button
                   varient="outline"
